@@ -98,15 +98,5 @@ public class Rent {
 		
 		return price;
 	}
-	
-	/**
-	public int calcultaeNoBonusPoints(){
-		if 
-	}
-	**/
-	
-	
-	
-	
 
 }
